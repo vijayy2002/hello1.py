@@ -1,0 +1,5 @@
+anime = ['One piece'  , 'Naruto' , 'dabangg3' , 'HxH' , 'gto' ] ;
+anime[2] = 'death note'
+anime.insert(2 , 'Great teacher onizuka')
+anime.append('monster')
+print(f'Top 5 anime {anime} of all time')
